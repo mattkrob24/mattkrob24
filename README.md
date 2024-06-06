@@ -7,6 +7,8 @@
 - 📫 How to reach me: LinkedIn is great
 - ⚡ Fun fact: I'm bilingual and currently learning a 3rd language (Spanish)
 
+- Tableau Portfolio here --> https://public.tableau.com/app/profile/matt.robinson5647/vizzes
+
 <!--
 **mattkrob24/mattkrob24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
