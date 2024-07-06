@@ -2,6 +2,11 @@
 
 - 👀 I’m interested in data analytics and data science
 - 🔭 I’m currently working on projects to further develop my SQL and Tableau skills
+    - List of skills used in my projects:
+        - JOINS
+        - CTEs
+        - Subqueries
+        - Windows Functions
 - 🌱 I’ve recently learned SQL and data visualization tools, as well as the software for this space (like SQLite, MySQL, Github). Would like to grow and eventually learn Python.
 - 👯 I’m looking to collaborate on any projects that are practical implications for the real world and eventually some behavioral economics data
 - 📫 How to reach me: LinkedIn is great
