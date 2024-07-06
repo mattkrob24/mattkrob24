@@ -9,7 +9,7 @@
         - Subqueries
         - Window Functions
         - Aggregate Functions
-- 🌱 Next steps for growth is more extensive projects in SQL and visualizations. On top of that I am continuing to learn Python.
+- 🌱 Next steps for growth is completing more extensive self projects using SQL and visualizations in Tableau. On top of that I am continuing to learn Python.
 - 👯 I’m looking to collaborate on any projects that are practical implications for the real world and eventually some behavioral economics data
 - 📫 How to reach me: LinkedIn is great
 - ⚡ Fun fact: I'm bilingual and currently learning a 3rd language (Spanish)
