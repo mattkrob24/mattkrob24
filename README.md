@@ -1,7 +1,7 @@
 👋 Hi there, I’m Matt Robinson, currently working at Arrow Electronics in sales operations in our AIS division.
 
 - 👀 I’m interested in data analytics and data science
-- 🔭 I’m currently working on projects to further develop my SQL and Tableau skills
+- 🔭 I’m currently working on projects to further develop my SQL, Tableau, and Python skills
     - List of skills used in my projects:
         - JOINS
         - Filters
