@@ -11,7 +11,7 @@
         - Aggregate Functions
         - Regular Expressions
         - Web Scraping
-        - Data Vizualization in Pandas, Matplotlib, and Seaborn
+        - Pandas, Matplotlib, and Seaborn
           
 - 🌱 Next steps for growth is completing more extensive self projects using SQL, Tableau, and Python.
 - 👯 I’m looking to collaborate on any projects that are practical implications for the real world and eventually some behavioral economics data
